@@ -15,7 +15,7 @@
 <br>
 <p>
 
-<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=minhduc-mll&show_icons=true&theme=dracula&rank_icon=github&line_height=30px" alt="Github stats">
+<img align="right" width="58%" src="https://github-readme-stats.vercel.app/api?username=minhduc-mll&show_icons=true&theme=dracula&rank_icon=github&line_height=30px" alt="Github stats">
 
 </P>
 
@@ -38,8 +38,8 @@
 <br>
 
 <p>
-<img align="left" width="56%" src="https://github-readme-streak-stats.herokuapp.com/?user=sarath-pm&theme=dracula&fire=FF801F" alt="Streak stats">
-<img align="right" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=minhduc-mll&size_weight=0.5&count_weight=0.5&layout=compact&theme=dracula&hide=C,C++" alt="Top languages">
+<img align="left" width="54%" src="https://github-readme-streak-stats.herokuapp.com/?user=sarath-pm&theme=dracula&fire=FF801F" alt="Streak stats">
+<img align="right" width="39%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=minhduc-mll&size_weight=0.5&count_weight=0.5&layout=compact&theme=dracula&hide=C,C++" alt="Top languages">
 </p>
 
 <br><br><br><br><br><br><br><br><br><br>
@@ -57,6 +57,7 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
 -   💾 Databases:
 
